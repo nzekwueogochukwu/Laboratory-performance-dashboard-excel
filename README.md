@@ -1,7 +1,7 @@
 # 📊 Laboratory Performance Dashboard (Microsoft Excel)
 
 ## 📌 Project Overview
-This project presents an interactive Microsoft Excel dashboard developed to analyze laboratory operational performance using over 1,000 laboratory records.
+This project presents an interactive Microsoft Excel dashboard developed to analyze a laboratory performance using over 1,000 laboratory records.
 
 The dashboard enables users to monitor key performance indicators (KPIs), evaluate laboratory efficiency, and identify operational improvement opportuninties through interactive filtering and visualization. 
 
@@ -18,7 +18,7 @@ A short demonstration of the interactive dashboard is included in this repositor
 3. Evaluate revenue performance.
 4. Identify sample rejection trends.
 5. Compare branch performance.
-6. Monitor cutsmer satisfaction.
+6. Monitor customer satisfaction.
 7. Support data-driven decision-making.
 
 ## 🛠️ Tools Used
