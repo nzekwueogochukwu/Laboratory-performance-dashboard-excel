@@ -5,6 +5,12 @@ This project presents an interactive Microsoft Excel dashboard developed to anal
 
 The dashboard enables users to moniyor key performance indicators (KPIs), evaluate laboratory efficiency, and identify operational improvement opportuninties through interactive filtering and visualization. 
 
+## 📷 Dashboard Preview
+<img width="1260" height="1025" alt="Screenshot 2026-07-16 142637" src="https://github.com/user-attachments/assets/7254174b-fe59-4e69-bdf1-30c1bf9ef8f2" />
+
+## 🎥 Dashboard Demonstration
+A short demonstration of the interactive dashboard is included in this repository.
+
 ## 🎯 Objectives
 1. Analyze laboratory workload.
 2. Monitor Turnaround Time (TAT).
@@ -47,7 +53,7 @@ The dataset was cleaned by:
 ## 💡 Key Insights
 1. The laboratory processed 1,000 samples during the analysis period.
 2. Microbiology handled the highest number of samples.
-3. Over 80% of samples exceeded the expected turnarond time, indicating workflow immprovement opportunities.
+3. Over 80% of samples exceeded the expected turnarond time, indicating workflow improvement opportunities.
 4. The laboratory recorded a 7.1% sample rejection rate.
 5. Customer satisfaction averaged 2.9/5.
 6. Revenue varied across both test types and laboratory branches.
