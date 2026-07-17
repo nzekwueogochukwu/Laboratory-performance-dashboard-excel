@@ -66,7 +66,7 @@ The dataset was cleaned by:
 - Project_Summary.
 
 ## Conclusion
-This project demonstrates my ability to clean and validate data, analyze operatonal performance, develop interactive dashboards, and communicate actionable business insights suing Microsoft Excel.
+This project demonstrates my ability to clean and validate data, analyze operatonal performance, develop interactive dashboards, and communicate actionable business insights using Microsoft Excel.
 
 ## 📬 Contact
 Kindly connect with me on LinkedIn to discuss healthcare analytics, data analysis and dashboard development.
