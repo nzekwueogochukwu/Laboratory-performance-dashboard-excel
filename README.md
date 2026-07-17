@@ -3,10 +3,11 @@
 ## 📌 Project Overview
 This project presents an interactive Microsoft Excel dashboard developed to analyze laboratory operational performance usisng over 1,000 laboratory records.
 
-The dashboard enables users to moniyor key performance indicators (KPIs), evaluate laboratory efficiency, and identify operational improvement opportuninties through interactive filtering and visualization. 
+The dashboard enables users to monitor key performance indicators (KPIs), evaluate laboratory efficiency, and identify operational improvement opportuninties through interactive filtering and visualization. 
 
 ## 📷 Dashboard Preview
-<img width="1260" height="1025" alt="Screenshot 2026-07-16 142637" src="https://github.com/user-attachments/assets/7254174b-fe59-4e69-bdf1-30c1bf9ef8f2" />
+<img width="1190" height="836" alt="Screenshot 2026-07-16 142637" src="https://github.com/user-attachments/assets/f66462aa-cbb6-4398-be10-73e08fdc81fe" />
+
 
 ## 🎥 Dashboard Demonstration
 A short demonstration of the interactive dashboard is included in this repository.
@@ -64,5 +65,9 @@ The dataset was cleaned by:
 - Dashboard_Demo.mp4
 - Project_Summary.
 
+## Conclusion
+This project demonstrates my ability to clean and validate data, analyze operatonal performance, develop interactive dashboards, and communicate actionable business insights suing Microsoft Excel.
+
 ## 📬 Contact
 Kindly connect with me on LinkedIn to discuss healthcare analytics, data analysis and dashboard development.
+https://www.linkedin.com/in/nzekwueogochukwu
